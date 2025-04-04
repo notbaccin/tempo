@@ -30,7 +30,7 @@ class tempo{
     }
     public int totalsegundos(){
         if (int) {
-            totalsegundos() = hora*360
+            totalsegundos() = hora*3604ork4ok4o
             
         }
         return totalsegundos();
